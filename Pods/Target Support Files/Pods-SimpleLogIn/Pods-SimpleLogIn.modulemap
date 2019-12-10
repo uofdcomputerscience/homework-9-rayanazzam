@@ -1,0 +1,6 @@
+framework module Pods_SimpleLogIn {
+  umbrella header "Pods-SimpleLogIn-umbrella.h"
+
+  export *
+  module * { export * }
+}
